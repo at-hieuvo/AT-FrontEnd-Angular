@@ -1,5 +1,5 @@
 ##             TYPESCRIPT AND ES6
-###I. TYPESCRIPT
+###TYPESCRIPT
 ####1.What is TypeScript and Why do we need it?
 **Typescript **is an open sourced programming language that is developed and being maintained by Microsoft. It is more or less like a wrapper for javascript. It brings strict validations, code intellisense and oops to javascript. The developers doesn't have to write anything in javascript, they only have to typescript. However on the compilation typescript produces javascript as it output.
 **Features of using typescript:**
